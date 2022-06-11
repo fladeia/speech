@@ -11,6 +11,7 @@
 ## 🎫 Sobre
 
 Projeto desenvolvido com Web Speech API. Insira um texto, clique no botão 'Falar' e o texto será convertido em áudio.
+[Você não vai mais precisar ler depois desse robô 😊 | Code/Drops #60](https://www.youtube.com/watch?v=XlNLjG2c9uM)
 
 ---
 
